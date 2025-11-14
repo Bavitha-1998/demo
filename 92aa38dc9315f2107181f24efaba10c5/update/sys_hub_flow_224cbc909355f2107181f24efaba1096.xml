@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>27000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <display_name_after_preview/>
+        <flow_priority>MEDIUM</flow_priority>
+        <generation_source/>
+        <internal_name>stub_flow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Stub Flow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-14 19:21:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>224cbc909355f2107181f24efaba1096</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Stub Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitHub Demo App" source="x_801257_github_de">92aa38dc9315f2107181f24efaba10c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Demo App">92aa38dc9315f2107181f24efaba10c5</sys_scope>
+        <sys_update_name>sys_hub_flow_224cbc909355f2107181f24efaba1096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-14 19:22:19</sys_updated_on>
+        <type>flow</type>
+        <updation_source/>
+        <version>2</version>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=224cbc909355f2107181f24efaba1096"/>
+    <sys_variable_value action="delete_multiple" query="document_key=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=224cbc909355f2107181f24efaba1096"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=224cbc909355f2107181f24efaba1096^sys_idNOT IN664c74d09355f2107181f24efaba100f"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>224cbc909355f2107181f24efaba1096</id>
+        <name>Stub Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-14 19:21:31</sys_created_on>
+        <sys_id>664c74d09355f2107181f24efaba100f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-14 19:21:31</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=664c74d09355f2107181f24efaba100f"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=224cbc909355f2107181f24efaba1096^sys_idNOT IN0c6cf4d09355f2107181f24efaba1069"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Stub Flow">224cbc909355f2107181f24efaba1096</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-14 19:21:54</sys_created_on>
+        <sys_id>0c6cf4d09355f2107181f24efaba1069</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="GitHub Demo App">92aa38dc9315f2107181f24efaba10c5</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-14 19:22:19</sys_updated_on>
+        <ui_id>5632d21c-69af-4c03-a22e-24fbd5b810c5</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/9VUW2vbMBT+K0HPxthxF9q8Dba8rYV19KUrQpaOY4EsabqkzUr/+44sO+3aBsIYjPlN5/JdpA/fPhIpyJqsaqg+XNQr3tRNs6yq5flZ3a6atl6KhgGckYJoNgBOBtYqoOOhIDumYip6TZmSW025cUA9d3GgYCXHESG9VWx/M01+zlXeSyUcaLK+vSuIZQ7xAjiyfnzVCnsLVLEWFC5/S9yLy8x9qu7flo/4SCyva8aJJKgqCDwE0AKQr2PKQ0EGpgULxu3JOriIBQdMXGm1P0z0UgcEJGn2wcufiH5epbkO0BqH3Dsc6XRLucx7Izlc2SCNzpVR2NQ0Kg76MptI9wsdiyrM94uV6BEPbJKcREyKuuve3H+dCTdSj+6mpjKcqcOJheBkGwP49B6gYEAgOjBrpd5S68xOjsuoZSi3Cg9lp8w9knrMQMl4El7iDbFyg/VPY/mGOZlcfEEYXH4a3dMfMfFmH5Nimk3jAOZI2vAR4XYwiXsq5sAKqC6OPnzdPj/0mFH/Mqy9cSGJHeFR6vdYVY24DrFdJL1vQ3vCxh8GGgbkCbDITMXJ3maAjQQl/Dtm50RPBHQ3EUyprv9WqutVNX7/JttZ538W7Rd/mSMhv/sF3St17ZcFAAA=</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=0c6cf4d09355f2107181f24efaba1069"/>
+    <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=224cbc909355f2107181f24efaba1096"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=224cbc909355f2107181f24efaba1096"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_224cbc909355f2107181f24efaba1096"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_224cbc909355f2107181f24efaba1096"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=224cbc909355f2107181f24efaba1096"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=224cbc909355f2107181f24efaba1096"/>
+</record_update>
